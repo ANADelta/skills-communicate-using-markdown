@@ -16,11 +16,12 @@
 function greet() {
     console.log("Hello, GitHub Learner!");
 }
-# My Task List
+My Task List
+ Turn on GitHub Pages
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+ Outline my portfolio
+
+ Introduce myself to the world
 
 
 
