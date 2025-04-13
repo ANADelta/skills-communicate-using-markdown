@@ -12,3 +12,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```javascript
+function greet() {
+    console.log("Hello, GitHub Learner!");
+}
+
+
+
+
