@@ -9,4 +9,3 @@
 ##### Benefits of Markdown
 
 ###### Smallest Header Example
-
